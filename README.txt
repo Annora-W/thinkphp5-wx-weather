@@ -1,8 +1,9 @@
 #thinkphp5-wx-weather
-ÊµÏÖ»ùÓÚÎ¢ÐÅ¹«ÖÚºÅµÄÌìÆøÔ¤±¨³ÌÐò
-¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
-index.php£º
-ÎÄ×Ö°æÌìÆøÔ¤±¨³ÌÐò£¬ÔÚÎ¢ÐÅ²âÊÔºÅÊäÈë¡°XXÌìÆø¡±£¬»Ø¸´ÌìÆøÊý¾Ý£¬ÌìÆøÊý¾ÝÊÇ¾²Ì¬µÄÊý¾Ý¡£
+å®žçŽ°åŸºäºŽå¾®ä¿¡å…¬ä¼—å·çš„å¤©æ°”é¢„æŠ¥ç¨‹åº
+â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”
+index.phpï¼š
+æ–‡å­—ç‰ˆå¤©æ°”é¢„æŠ¥ç¨‹åºï¼Œåœ¨å¾®ä¿¡æµ‹è¯•å·è¾“å…¥â€œXXå¤©æ°”â€ï¼Œå›žå¤å¤©æ°”æ•°æ®ï¼Œå¤©æ°”æ•°æ®æ˜¯é™æ€çš„æ•°æ®ã€‚
+![img]https://github.com/Annora-W/thinkphp5-wx-weather/blob/master/resultImg/1.jpg
 
-index.html£º
-Web°æÌìÆøÔ¤±¨³ÌÐò£¬jQuery£¬ÌìÆøÊý¾ÝÊÇ¾²Ì¬µÄÊý¾Ý¡£
+index.htmlï¼š
+Webç‰ˆå¤©æ°”é¢„æŠ¥ç¨‹åºï¼ŒjQueryï¼Œå¤©æ°”æ•°æ®æ˜¯é™æ€çš„æ•°æ®ã€‚
